@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+SITEMAP: http://site4938437.santamonicacarglassrepair.tk/sitemap.xml
